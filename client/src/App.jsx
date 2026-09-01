@@ -16,6 +16,8 @@ import ResetPassword from "./pages/ResetPassword";
 import Profile from "./pages/Profile";
 import GameSlide from "./components/GameSlide";
 import Ann from "./components/Ann";
+import MinigameDirect from "./pages/MinigameDirect";
+import { MINIGAME_IDS } from "./lib/minigameIds";
 
 
 function App() {
@@ -27,7 +29,8 @@ function App() {
   const AppContent = () => {
     const location = useLocation();
     const navigate = useNavigate();
-    const hideNavbar = location.pathname === '/play' || location.pathname.startsWith('/play/');
+    const topSegment = location.pathname.slice(1).toUpperCase();
+    const hideNavbar = location.pathname === '/play' || location.pathname.startsWith('/play/') || MINIGAME_IDS.includes(topSegment);
 
     // Global axios interceptor for token expiry handling (401 page)
     useEffect(() => {
@@ -72,6 +75,7 @@ function App() {
           <Route path="/forgot-password" element={<ForgotPassword />} />
           <Route path="/reset-password" element={<ResetPassword />} />
           <Route path="/profile" element={<Profile setUser={setUser} />} />
+          <Route path="/:gameId" element={<MinigameDirect />} />
         </Routes>
       </>
     );
