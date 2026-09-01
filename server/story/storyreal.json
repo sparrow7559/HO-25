@@ -1,0 +1,1381 @@
+ [
+    {
+      "storyID": "0001",
+      "text": ["ጨዋታውን እናውቃለን እና እንጫወታለን።እና እንዴት እንደሚሰማኝ ከጠየቁኝ።", "እንዳታይ ታውራለህ እንዳትለኝ", "በጭራሽ አሳልፎ አልሰጥህም", "በፍፁም አላሳቀቅሽም።"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0101"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0101",
+      "text": ["THE JUNIOR INTERN: The lab didn’t feel sinister back then. Everything gleamed — white walls, glass panels, chrome counters. It felt like stepping into the future."],
+      "backgroundImg": "wolf.png",
+      "backgroundMusic": "tense.mp3",
+      "nextID": ["0102"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0102",
+      "text": ["I was just a junior, badge 742, running errands and jotting notes. Still, it felt like history was being made around me.", "We weren’t cutting people open — just studying the mind. Mapping signals, testing responses, pushing at the edges of thought itself.", "The “volunteers” stayed quiet behind the glass. Too quiet. But we told ourselves they were calm, focused, serene.", "That was the word our supervisors liked: focus. And I believed them. Why wouldn’t I?"],
+      "backgroundImg": "exit.png",
+      "backgroundMusic": "victory.mp3",
+      "nextID": ["0103"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0103",
+      "text": ["We thought we were on the verge of something hopeful. Beautiful. Holy. I didn’t see what we were really inviting in."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0201"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0201",
+      "text": ["After a week of nonstop rain, the sun finally shines on MIT. Player 1 and Player 2 step out of Temple Run, squinting but grinning, backpacks slung loose."],
+      "backgroundImg": "wolf.png",
+      "backgroundMusic": "tense.mp3",
+      "nextID": ["0202"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0202",
+      "text": ["Player 1: (stretching) Man, two weeks into college and I already feel like I’m behind.", "Player 2: Same. Midsems are gonna destroy us, we should probably start studying now."],
+      "backgroundImg": "exit.png",
+      "backgroundMusic": "victory.mp3",
+      "nextID": ["0203"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0203",
+      "text": ["A senior walking by overhears them. She slows, gives them a look of pure disgust — the kind usually reserved for people who clap when the plane lands — and shakes her head before walking off."],
+      "backgroundImg": "wolf.png",
+      "backgroundMusic": "tense.mp3",
+      "nextID": ["0204"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0204",
+      "text": ["Player 1: (laughs) Okay, did you see that look?", "Player 2: Yeah, I don’t understand why she was looking at us like that,should we have started studying even earlier or something?"],
+      "backgroundImg": "exit.png",
+      "backgroundMusic": "victory.mp3",
+      "nextID": ["0205"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0205",
+      "text": ["Player 1: Anyways, let’s just let it go for now. We’ve got time to panic later.", "Player 2: (grinning) Cool. At least we’ll fail in style.", "Player 1: (pointing) Anyway—look over there!"],
+      "backgroundImg": "wolf.png",
+      "backgroundMusic": "tense.mp3",
+      "nextID": ["0301"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0301",
+      "text": ["The plaza is packed. Club banners are flapping like they’re desperate to be noticed. Three stand out: Music, Art, Drama."],
+      "backgroundImg": "exit.png",
+      "backgroundMusic": "victory.mp3",
+      "nextID": ["0302"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0302",
+      "text": ["Player 1: (perks up) Ooo, clubs!", "Player 2: Wow, yeah, three stalls trying to convince us they’re not all the same thing. Revolutionary."],
+      "backgroundImg": "wolf.png",
+      "backgroundMusic": "tense.mp3",
+      "nextID": ["0303"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0303",
+      "text": ["Player 1: Don’t be salty. Let’s at least check one out.", "Player 2: (hand on stomach) Fine. One. Then food. Priorities."],
+      "backgroundImg": "exit.png",
+      "backgroundMusic": "victory.mp3",
+      "nextID": ["0304"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0304",
+      "text": ["Player 1: (looking around) Music, Art, Drama… hmm.", "Player 2: (checking watch) Yeah yeah, take your time. I’ll just be here… starving to death."],
+      "backgroundImg": "wolf.png",
+      "backgroundMusic": "tense.mp3",
+      "nextID": ["0401a", "0401b", "0401c"],
+      "levelEnd": true,
+      "choice": ["1", "2", "3"]
+    },
+    {
+      "storyID": "0401a",
+      "text": ["With 1,00,000+ minutes on Spotify flexed on Wrapped, Player 1 drags Player 2 over to the music club. A student with way too many bracelets waves them down.", "Music Club Rep: Hey! Ever wanted to unleash your inner Mozart? Or belt like Freddie Mercury? You’re at the right place!"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0402a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0402a",
+      "text": ["Player 1: (grinning) We’re interested.", "Player 2: Uh, correction — you’re interested.", "Player 1: Yeah, and I’m the “main character”, so I make the decisions.", "Player 2: Main character? Please. You’re more like the tutorial NPC."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0403a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0403a",
+      "text": ["Music Club Rep: …uhh, right. Anyway! Sign up here. Aaaand if you play our little game, you could win a shiny whistle.", "Player 1: Say less, I’m in.", "Player 2: (sighs) If this turns into karaoke, I’m suing."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["M1"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0401b",
+      "text": ["Player 1, fueled by way too many “Best Out of Waste” certificates from school, drags Player 2 to the art stall. A paint-streaked student with mismatched socks shoves a brush into Player 1’s hand.", "Art Club Rep: Art is freedom! Art is chaos! Art is also mandatory fees, but we don’t talk about that."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0402b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0402b",
+      "text": ["Player 1: (holding brush like a sword) I was born for this.", "Player 2: (already edging toward food stalls) You were born to embarrass us."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0403b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0403b",
+      "text": ["Art Club Rep: Great, you can sign up here. Aaaand you have the chance to win handmade neon band if you play our game."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["M1"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0401c",
+      "text": ["Having been the lead actor in several school productions, Player 1 wanted to get back into the theatre, post all the entrance exam soul sucking."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0402c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0402c",
+      "text": ["A dramatic figure leaps in front of them wearing a cape made from a curtain.", "Drama Club Rep: Friends, Romans, countrymen! Lend me your signatures on this membership form!"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0403c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0403c",
+      "text": ["Player 1: (clapping) Incredible commitment.", "Player 2: (sighs) I’m going to pretend I don’t know you if you join this."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0404c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0404c",
+      "text": ["Player 1: (already scribbling name) Too late.", "Drama Club Rep: Great, you can sign up here. Aaaand you have the chance to win masks if you play our game."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["M1"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "M1",
+      "text": ["", ""],
+      "backgroundImg": "",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0601a", "0501b"],
+      "levelEnd": true,
+      "choice": ["1", "2"]
+    },
+    {
+      "storyID": "M1",
+      "text": ["", ""],
+      "backgroundImg": "",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0601b", "0501b"],
+      "levelEnd": true,
+      "choice": ["1", "2"]
+    },
+    {
+      "storyID": "M1",
+      "text": ["", ""],
+      "backgroundImg": "",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0601c", "0501b"],
+      "levelEnd": true,
+      "choice": ["1", "2"]
+    },
+    {
+      "storyID": "0501b",
+      "text": ["<User choice> member: Aw. that’s alright, you’ll get a lot more opportunities to participate and organize fun events if you join the club", "Player 1: Oh well"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0701"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0601a",
+      "text": ["<User choice> member: Congratulations! here’s your prize", "Player 1: Thank you! Gets a whistle!"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0701"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0601b",
+      "text": ["<User choice> member: Congratulations! here’s your prize", "Player 1: Thank you! Gets a handmade neon band!"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0701"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0601c",
+      "text": ["<User choice> member: Congratulations! here’s your prize", "Player 1: Thank you! Gets a mask!"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0701"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0701",
+      "text": ["Player 2 grabs Player 1 by her arm and pulls him to the SP stalls. Player 2: I’m too hungry to decide, you choose where we should eat.", "Three food stalls close to each other: Hungry House. The Kitchen. Flurrys."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0801a", "0801b", "0801c"],
+      "levelEnd": true,
+      "choice": ["1", "2", "3"]
+    },
+    {
+      "storyID": "0801a",
+      "text": ["Store owner: uhhh give me some time, my () isnt working", "Player 1: oh we can help fix that", "Player 2: for sure!"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["M2"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0801b",
+      "text": ["Store owner: uhhh give me some time, my () isnt working", "Player 1: oh we can help fix that", "Player 2: for sure!"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["M2"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0801c",
+      "text": ["Store owner: uhhh give me some time, my () isnt working", "Player 1: oh we can help fix that", "Player 2: for sure!"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["M2"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "M2",
+      "text": ["", ""],
+      "backgroundImg": "",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0901"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "0901",
+      "text": ["As they eat, a bright poster on the wall catches their eye.", "Bold letters: ”MUSIC PRODUCTION 101 — WITH A TWIST....cutting-edge sound and tech...small research group...music production...”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0902"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0902",
+      "text": ["Player 2: (mouth full) Nope. Sounds like homework disguised as fun.", "Player 1: (munching on their <food item>) Same… but look—“Compete in a challenge for a chance to win a Sony Walkman .”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0903"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0903",
+      "text": ["Player 2: (immediately) What? huh?, is that fake, that’s so expensive though? A ton of people would join if that’s the case, how are they paying for all that? Wasn’t this supposed to be some small research group."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["0904"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "0904",
+      "text": ["Player 1: No clue but my mom had a walkman, but it stopped working, would be nice if we won it.", "P2: Upto you, I’m just here for the plot."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1001"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1001",
+      "text": ["THE JANITOR: The mop felt heavier than usual. Another late night at the lab, another round of floors while the scientists fussed over blinking screens."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1002"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1002",
+      "text": ["But something was wrong. A low hum pulsed from the soundproof chamber—steady, insistent, almost musical.", "It was beautiful in a way that made my hair stand on end, like a hymn played in a grave. The sound filled me with awe and fear all at once.", "I couldn’t tell what was making it. The room beyond was still—empty chairs, cables coiled like veins, monitors blinking their cold rhythm.", "Yet the music pressed against the glass, threading into my skull, whispering that something was awake inside.", "Behind the glass, I could faintly make out a figure strapped to a chair, body rigid."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1003"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1003",
+      "text": ["A thought crawled through my mind—he looked… familiar, like one of the interns I’d seen months ago, the kid with badge 742. But that couldn’t be. Could it?", "The music faded. The chamber stilled. The scribbles on the board stayed.", "I counted the minutes. Tomorrow would be better. It had to be."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1101"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1101",
+      "text": ["The quadrangle of Academic Block 1 is buzzing. A big stage stands at the front, two oversized speakers parked on either side like they’re about to throw a rave instead of a workshop."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1102"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1102",
+      "text": ["Two people walk onto the stage: Introduction", "Workshop head 1: “Hey, everyone. Glad you’re here. You’re not just here for music — you’re here for what music does. Sound isn’t just noise. It entertains, sure. But it also influences. Guides. Shapes. And today, you’ll get a taste.”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1103"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1103",
+      "text": ["Workshop head 2: (into mic, casual) “Yeah, don’t stress. Just… chill out and let the music wash over you. If you nap, it means it’s working.”", "Workshop head 1: (smirks, spreading arms wide) “Big thanks to your college for giving us this space. You’re the first to experience this. Consider yourselves… privileged.”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1104"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1104",
+      "text": ["A round of polite claps. Phones light up in the crowd. Some students already look like they’d rather be at the food stalls."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1105"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1105",
+      "text": ["“Let’s start simple. Here’s a little something I produced.” [He gestures. <<desc for prides music>>.]", "Player 1: winces, tinnitus flaring. Headache creeping in"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1106"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1106",
+      "text": ["Player 2: (leaning to Player 1, whispering) “…bro, is this Windows starting up, or am I missing the beat?”", "Player 1:“If this was on Spotify, I’d report it as a bug.”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1201"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1201",
+      "text": ["Player 2: Ughh, this is so boring, I want to leeeeave...", "Choices: 1) Stay, you came here to win the walkman, all this torture would be useless if you left now", "2) Leave from the entrance opposite to the stage, the walkman isn’t worth all this pain"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1301a", "1301b"],
+      "levelEnd": false,
+      "choice": ["1", "2"]
+    },
+    {
+      "storyID": "1301a",
+      "text": ["Player 1: But we won’t get the chance to win the Walkman and I reeeally want to.", "Player 2: (sighs, mutters) Fine. If this fries my neurons, it’s your fault."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1302a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1302a",
+      "text": ["The music cuts. Silence falls. The track fades. Half-hearted clapping.", "Workshop head2 shrugs and steps up.", "Workshop head 2: “Okay… here’s mine.” [<<sloths music>>. It loops. And loops. And loops. Students glance at each other, eyebrows raised.]"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1303a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1303a",
+      "text": ["Player 2: “This one’s called ‘Elevator Stuck Between Floors,’ right?”", "Player 1: (ringing in her ears getting louder) “At least the other guy’s track went somewhere. This one’s still waiting for the bus.”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1304a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1304a",
+      "text": ["By now, some students shift in their seats, entranced", "Player 1 and Player 2 exchange looks — leaving sounded better by the second."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1401"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1401",
+      "text": ["After their questionable “performances,” Workshop head 1 and Workshop head 2 move on to the teaching bit.", "Workshop head 1 excitedly clicks through slides about sound frequencies and waveform editing, while Workshop head 2 demonstrates dragging and dropping files at half-speed like it’s rocket science."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1402"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1402",
+      "text": ["On a side table, parts of a Walkman are laid out — circuits, buttons, casing — but somehow, even that looks dull under their explanation."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1403"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1403",
+      "text": ["Player 1: (whispering) “How do you take music production and Walkmans… and make it feel like a three-hour lecture on staplers?”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1404"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1404",
+      "text": ["The Workshop head 1 starts talking and they snap back to attention", "Workshop head 1: “Now its your turn. Put it together, make it work. If you do a good job, you may be part of the lucky few to win a Sony Walkman.”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["M3"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "M3",
+      "text": ["", ""],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1501a", "1501b"],
+      "levelEnd": true,
+      "choice": ["1", "2"]
+    },
+    {
+      "storyID": "1501a",
+      "text": ["Player 1: (grinning, holding it up) “Let’s gooo! I actually pulled it off!”", "Player 2: (rolling eyes) “Congrats, hero. You just peaked in life."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1502a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1502a",
+      "text": ["Player 1 laughs, though the jab stings a little. Still, he’s too happy about the Walkman to let it sink in."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1601"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1501b",
+      "text": ["Player 1: (sighing) “Man… I really thought I had it.”", "Player 2: (smirking) “Yeah, tragic. Maybe stick to listening, not building.”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1502b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1502b",
+      "text": ["Player 1 forces a small chuckle, but his shoulders drop. The comment bites, though he shakes it off quickly, pretending it didn’t matter."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1601"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1301b",
+      "text": ["Player 1: Same here. It’s too loud and my head hurts.", "[Narration] They slowly walk towards the opposite entrance. Player 1 pushes the door— its locked."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1302b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1302b",
+      "text": ["Player 1: (rattling handle) Seriously? It’s locked?", "Player 2: What kind of workshop traps you inside?", "Player 1: A fun one?"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1303b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1303b",
+      "text": ["Defeated, they drift into a side hallway of AB1. Fluorescent lights flicker. The faint music still throbs through the walls - a different one this time, its more <>. (add their reaction to it)"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1304b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1304b",
+      "text": ["As they wander the empty hall, a cluttered bulletin board catches P1’s eye. Most of the papers are boring research abstracts — but one stands out."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1305b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1305b",
+      "text": ["Player 1: (reading aloud) “…subjects showed not just mood changes, but… suppressed willpower, and increased suggestibility with prolonged sound exposure…”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1306b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1306b",
+      "text": ["Player 2: (snorts) “So what, they reinvented bad lo-fi beats to… not study to?”", "Player 1: (frowning) “Or they stumbled onto something they shouldn’t have.”"],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1307b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1307b",
+      "text": ["The hallway suddenly feels colder, the fluorescent lights buzzing louder than before.", "Player 1 and Player 2 exchange a glance… and step further inside."],
+      "backgroundImg": "forest.png",
+      "backgroundMusic": "mystic.mp3",
+      "nextID": ["1601"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1601",
+      "text": ["THE HUMAN EXPERIMENT: I can't tell how long I've been here. Hours? Days?", "The hum never stops—low, insistent, almost musical. It presses against my chest, threading into my thoughts, beautiful and wrong at once.", "The tests continue. Notes, tones, rhythms. They watch how I respond, measuring every twitch, every blink, every hesitation.", "My answers feel slow, as if the music moves through me before they reach anyone."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "1602"
+      ],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1602",
+      "text": ["I hear the researchers talking softly beyond the glass, voices calm, precise. They call it neural mapping, brainwave resonance.", "They don't notice—or don't care—that the music isn't just sound. It moves through me, through all of us.", "I feel a shift inside, small at first, like a shadow pressing against the edges of my thoughts. Calm, patient, but sharp."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "1603"
+      ],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1603",
+      "text": ["My reflection in the glass smiles back, even though I don't. And just behind it, I catch the eyes of one of them—the researcher who never looks away, scribbling notes with a hand that never shakes."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "1701"
+      ],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1701",
+      "text": ["The classroom is almost empty, with merely ten students in attendance.", "The professor is surprised by the poor turnout for evening class.", "Player 2 is asleep on the first bench when- He jerks awake, gasping, his eyes darting around in panic.", "Player 2 (startled): ...what the— He blinks. Sunlight filters in through tall windows. His notebook is half-soaked in drool.", "The professor stands at the front, arms crossed, mildly infuriated.", "Professor: Well, I'm glad to see someone found my lecture... soothing.", "The class erupts in shaky laughter. A few students mimic his head bobbing as he slept."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "1702"
+      ],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1702",
+      "text": ["Classmate 1: Yo, you were out cold!", "Classmate 2: (laughing) You even twitched like you were fighting ghosts or something!", "Player 1 rubs his face, cheeks burning, forcing a weak laugh.", "Player 2: Yeah... guess I needed it.", "But as the laughter dies down, his eyes linger on the desk, fingers trembling.", "The dream's images: lab coat, black void, that face... still claw at the edges of his mind. He exhales slowly, trying to convince herself it wasn't real."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "1801"
+      ],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1801",
+      "text": ["The bell rings, breaking the last of the tension. Chairs scrape back, students spill out into the hall, still whispering and laughing.", "Player 2 lingers, rubbing his temples, then shoves her notebook into her bag and follows.", "The sky is dimming, campus lamps flickering on. Player 2 is already waiting by the gate, earphones slung around his neck."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "1802"
+      ],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1802",
+      "text": ["Player 1 (spotting him): Took you long enough. You looked like death in there.", "Player 2 forces a half-smile, walking beside him.", "Player 2: Yeah... rough nap.", "They walk in silence for a beat, footsteps echoing on the pavement.", "Player 2 keeps glancing around, still carrying the weight of the dream."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "1901"
+      ],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "1901",
+      "text": ["They take a walk just outside the campus.", "Player 1 slows down, staring at something scratched across the bricks: faint shapes — crude, angular, etched in chalk, or maybe carved.", "They look alive under the lamp's shadow.", "Player 1: (pauses mid-step, squints) ...Hold on. You see that?", "Player 2: (half-joking) What, the art club's latest \"modern masterpiece\"?"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "1902"
+      ],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "1902",
+      "text": ["Player 1: No... these aren't random doodles. These look aligned, almost deliberate.", "Player 2: ...It's college. People tag walls when they're bored or something. You're giving it too much thought.", "Player 1: (tracing the shapes in the air) No. There's rhythm here. They're not words, not pictures exactly. Something's being said."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "M4"
+      ],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "M4",
+      "text": ["", ""],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "2001a",
+        "2001b",
+        "2001c"
+      ],
+      "levelEnd": true,
+      "choice": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "storyID": "2001a",
+      "text": ["Player 1: (steps back, chills running down spine) ...Seven. Not stars, not graffiti. It's deliberate. Someone wanted this seen.", "Player 2: (squinting) Is that supposed to be the Big Dipper or not? Seven... What's it supposed to tie to?"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "2002a"
+      ],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2002a",
+      "text": ["Player 1: (eyes narrow, muttering almost to self) That's the thing. I've been seeing numbers all day. Not connected, not patterns, just numbers.", "Player 2: Well, great. Lucky number seven, right?", "Player 1: (shakes head) Not like this. I have a foreboding feeling it's something deeply sinister."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "2101a"
+      ],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2001b",
+      "text": ["Player 1: (leans back, exhaling) ...No, no, it's nothing. Some lazy graffiti. Probably an attempt at being profound. 'Seven'.", "Player 2: Bah. I told you, college nonsense. C'mon, I read about a new ramen place. End of story."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "2002b"
+      ],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2002b",
+      "text": ["Player 1: (still uneasy, mutters) Then why do I still feel the urge to... connect it?", "Player 2: Because you want it to mean something. Not everything's a mystery."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "2101b"
+      ],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2001c",
+      "text": ["Player 1 (squinting at the wall): “Doesn’t it look a bit like… a Greek letter? Like… Gamma?” (They tilt their head, the cut in the plaster really does echo the blocky Γ from a chalkboard.)", "Player 2:“…Could be. Some old fraternity mark, maybe? You know, Greek life branding the place. They’ve got that Greek art on the road leading to SP.”"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "2002c"
+      ],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2002c",
+      "text": ["Player 1: “Gamma wasn’t just a letter, though. In old philosophy it marked a split… a fork in the path. Choice Divergence", "They glance down the hallway, fractured tiles stretching into shadow. The air feels heavier, like the building itself is waiting.", "Player 2 (frowning, uneasy): “So it’s a doodle. Or…”", "Player 1: “…Or it’s meant to remind us. Maybe these symbols aren’t decoration. They can carry weight. A mark like this could mean… something darker. Myth carried forward, whispered into a wall.”"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [
+        "2101c"
+      ],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2101a",
+      "text": ["They trace the wall beside the graffiti. The paint flakes, revealing a seam — a door-sized outline carved into the concrete itself.", "A faint draft seeps through, cold and stale, like air trapped for years.", "Player 2: (backing away) That... shouldn't be there. Not in a campus wall."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2102a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2102a",
+      "text": ["The panel creaks open an inch, the air carrying the stench of rot and rust.", "A staircase winds downward into silence. And carved, so faint they almost miss it, just above the seam of the hidden door: Seven tiny vertical lines.", "Each etched by hand. Each gouged deep enough that the concrete chipped away, like someone needed them to last.", "Player 1: Yes. Yes. We have to. Please. This is a real secret passageway. This isn't a game.", "Author's Note: ...."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2201a"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2101b",
+      "text": ["Player 1 (peering out closer, voice low): ...I've seen this before. In some class in AB3.", "Player 2: Ugh. You're obsessed. It's probably chalk from some math kid losing his mind over derivatives.", "Player 1 (insistent): No. I've seen it twice, maybe three times. It's always in the same place. Don't you want to know?", "Player 2 (yawns): Not even remotely. It's dark, it's late, and that's about twenty steps too many for me right now.", "Player 1: You can't just rot in that chair every night. Get up—come with me."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2102b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2102b",
+      "text": ["Player 2: What if it's nothing? What if it's just a scribble and we wasted the last of my energy for the week?", "Player 1: Then fine—it's nothing. But at least we'll know. And if it's not... do you really want me going there alone?", "Player 2: ...You're not going to shut up until I move, are you?", "Player 1: Exactly.", "Player 2 (sighs, hauls himself up with exaggerated effort) Alright, alright. But if this turns out to be a doodle, you owe me coffee for a week.", "Player 1: Deal. Now let's go—before they lock the doors."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2201b"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2101c",
+      "text": ["They walk into AB3, with the faint hum of fluorescent lights buzzing overhead. The corridors are long, bare, echoing with each footstep. Outside, the last doors of the block are being locked as the night shift begins. The players have slipped inside, unnoticed.", "Player 2: (whispering)\"We shouldn't even be here. They shut this place down at night for a reason.\""],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2102c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2102c",
+      "text": ["Player 1: (running a hand along the wall) \"Yeah, to keep out idiots like us. Relax. Look—\" [points to a faint chalk-like carving near a stairwell] \"—there it is again.\"", "The mark is etched into the stone under the stairwell, jagged, almost a spiral, almost an eye. It feels unfinished yet deliberate. Faint lights flicker from somewhere above.", "Player 2: (shuddering)\"This is exactly what I saw earlier. I swear I've read about this somewhere... something about chthonic symbols, the kinds scratched into walls before rituals.\""],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2103c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2103c",
+      "text": ["Player 1: (trying to sound dismissive but uneasy) \"You've just been reading too much mythology. Academic block, Greek symbols on the wall—of course it feels familiar. This whole building is basically one big shrine to old books.\"", "Suddenly, the distant slam of a door reverberates down the hallway. Both freeze.", "They rush back toward the entrance—only to find the doors firmly shut, padlocked from the outside. No amount of pounding works.", "Their phones glow dim in their hands: No Service."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2104c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2104c",
+      "text": ["Player 2: (panicked, voice cracking) \"No one can hear us...? Even this close to campus? This isn't right—this is not right.\"", "Player 1: \"Maybe... maybe it's not meant to be seen. These aren't warnings—they're... invitations.\"", "The lights overhead die, plunging the hall into near-blackness. The only thing faintly visible is the spiral-mark glowing pale against the wall.", "Somewhere down the hallway, the creak of unseen footsteps echoes closer. The players turn, voices trembling as the screen fades to black."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2201c"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2201a",
+      "text": ["Player 2: Aw maaaaaaaan. I can't be arsed. I don't think I have it in me for a full blown side quest. Nothing you say or do will convince me to accompany you.", "Player 1: 50 bucks.", "Player 2: What???? No. I can't be bought off like that.", "Player 1: 200 bucks.", "Player 2: Upon my honour-", "Player 1: 500 bucks and I buy you dinner.", "Player 2: Lead the way, mademoiselle."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2301a"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2201b",
+      "text": ["The hallways stretch silent after hours, rows of classroom doors shut tight. Their footsteps echo too loudly against the tiled floor as they trace back the way they came.", "Player 2: “Okay, we found the same doodle on the first floor bathroom wall. Interesting, but it’s still nonsense. Now let’s get out before someone-”", "The front doors loom at the end of the corridor, faint moonlight spilling through the glass.", "Player 2 pushes against the bar. Thunk. The doors resist. They push again, harder. Thunk. Locked."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2202b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2202b",
+      "text": ["Player 2: “Wait, what?”", "Player 1: “No. No, it can’t be-”", "Player 1 rattles the handle. Nothing. A hollow metallic echo.", "A silence settles, thick and strange, as though the whole building holds its breath.", "Player 2: “We’re locked in. How are we-”"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2203b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2203b",
+      "text": ["A soft click echoes from somewhere down the hall, the faint sound of another lock sliding into place. Both freeze, eyes drawn to the shadows pooling at the far end.", "Nothing moves, but the fluorescent light overhead flickers once, twice, before steadying.", "Player 1: “We’ll find another way out. Side doors, maybe the basement. Or do we just break the door down?”", "Player 2: “No, we’ll get in serious trouble for that. Let’s try to find another way.”"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2301b"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2201c",
+      "text": ["I locked eyes with the subject through the glass, just for a second too long. He wasn’t looking at me—he was staring at his own reflection, unblinking, as if it was speaking to him.", "The longer I watched, the more uneasy I felt, until I had to look away and pretend to focus on my notes."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2202c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2202c",
+      "text": ["We’ve been here before. The last rounds of “experiments” were failures—each one unraveling in its own grotesque way.", "Their files are sealed now, their bodies stored in room 489 of the basement. No one is ever allowed to go near it.", "We don’t talk about them, but we all remember. This subject is different though. He hasn’t broken, not yet.", "He excels where the others faltered—patterns, tone recognition, resilience to isolation. On paper, he’s perfect.", "But perfection frightens me more than failure. If we succeed, I can feel it—something far worse is waiting for us on the other side.", "The head researcher doesn’t see it that way. He paces the observation deck like a priest before an altar, calm but relentless.", "He keeps telling us we’re close to a breakthrough, closer than ever. He never says what the breakthrough is. Only that the subject is the key.", "I overheard him in the director’s office days ago, his voice low, almost reverent.", "He mentioned their new dig sites, the ones they keeps off the books.", "They unearthed scriptures, fragments from some civilization no one has heard of.", "Writings about a new form of music—not just notation, but something older, stranger.", "The head researcher speaks of it as if it were sacred.", "He keeps quoting ancient texts too, passages on the effect of sound on the human body, the mind.", "He says music was once considered the purest form of control—more binding than chains, more cutting than blades.", "I write down the data, follow protocol, nod when spoken to. I don’t know where any of this is leading.", "I just know the subject isn’t like the others, and if we keep pushing, something will break."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2301c"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2301a",
+      "text": ["The stairs coil down forever. Their footsteps echo in a rhythm that feels wrong, too loud, like someone — or something — is keeping count.", "Player 1: (whispering) “How far does this go?”", "Player 2: (strained) “Feels like… deeper than a building should even allow.”", "The walls are carved stone now, streaked with dark red stains, numbers scratched faintly into the rock. I … II … III …, each mark sharper, angrier than the last."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2302a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2302a",
+      "text": ["A sound drifts upward — not quite whispers, not quite breathing. More like hunger, stretched thin.", "The air grows hotter, heavier, as if with every turn of the stairwell they’re walking into something alive.", "A flicker of light below. Then it’s gone. Just the dark. Just the endless stairway slowly counting: IV … V … VI…", "Player 2: “500 bucks will NOT cut it, dude.”", "And still, the stairs go down."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["MISS1"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2301b",
+      "text": ["They take the elevator. The elevator doors groan as they shut, the metal grinding faintly.", "A dim light hums above, flickering once before steadying. The carriage jolts, then begins its slow ascent, each floor number glowing weakly.", "The air inside feels stale, with a faint tang of rust. A sudden creak echoes through the narrow space, sharp as if something shifted in the walls."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2302b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2302b",
+      "text": ["Player 2: “This was a bad idea. Small creaky metal boxes hanging by cables? No thanks.”", "The elevator shudders, halting between floors, the light dimming for a moment.", "The panel’s numbers flicker: 3—4—3—4—before settling on 4.", "But the doors don’t open. Instead, they hear a faint beeping, like a timer."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["M5"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2301c",
+      "text": ["They walk towards a classroom, uneasy. The classroom door looms ahead and they approach it, door hinges squealing as Player 1 pushes it open.", "Desks are overturned, some stacked like barricades. On the chalkboard, words are scrawled in frantic white: “STAY OUT.”", "Player 2 (shivers) : “Why would anyone write that?”", "They step in, their footsteps echoing unnaturally loud.", "Something creaks, making Player 1 jump out of his skin.", "Player 2: “Did you hear that??”", "Player 1: “You’re just being paranoid. This isn’t a haunted building, we come here everyday!”"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2302c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2302c",
+      "text": ["The air grows heavy, colder, as though the room is taking a deep breath.", "Player 2 shines the phone torch around. The light catches a red pen on an open notebook, blank except for four words in a strange language:"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["M6"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "MISS1",
+      "text": ["The stairwell groans with every step, a concrete throat swallowing them deeper. The shadows don’t just thicken—they press, folding around their shoulders like a hand trying to drag them back.", "Player 2: (panting) “This isn’t right. My legs feel… heavy. Can we please turn back? “", "Player 1: (snapping back) “Bro lock in. Don’t you feel the thrill, the call for adventure?”", "A faint hum trickles up from below, mechanical but uneven, like an old generator choking on dust."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["MISS2"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "MISS2",
+      "text": ["Player 1’s eyes catch something—the air ahead flickers unnaturally, swallowing the glow of their phone like a black tide.", "Darkness thicker than night, spreading up the stairs, erasing each step behind them.", "Player 1: (hushed) “No way back now. Do you see that?”", "Player 2 dares a glance—and instantly wishes they hadn’t. The blackness doesn’t just block sight. It eats it, erases it, a perfect absence creeping closer.", "And beneath it all—seven faint clicks, echoing up the stairwell. Not footsteps. Not machinery. Deliberate. Patient. One after another."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["MISS3"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "MISS3",
+      "text": ["Player 2 grips Player 1’s arm, trembling. “Seven… there were seven clicks.”", "Player 1 doesn’t stop moving. The hum deepens, the air grows colder, and the steps spiral downward—faster, narrower, endless. Something waits."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2401a"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "M5",
+      "text": ["Morse code minigame currently an audio file. Can change it for plaintext too if necessary. Will be decided."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2501b"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "M6",
+      "text": ["Caeser cipher minigame. They have to decode it first, then convert to English to get the correct answer."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2501c", "2501d"],
+      "levelEnd": true,
+      "choice": ["1", "2"]
+    },
+    {
+      "storyID": "2401a",
+      "text": ["I locked eyes with the subject through the glass, just for a second too long. He wasn’t looking at me—he was staring at his own reflection, unblinking, as if it was speaking to him.", "The longer I watched, the more uneasy I felt, until I had to look away and pretend to focus on my notes.", "We’ve been here before. The last rounds of “experiments” were failures—each one unraveling in its own grotesque way.", "Their files are sealed now, their bodies stored in room 489 of the basement. No one is ever allowed to go near it.", "We don’t talk about them, but we all remember. This subject is different though. He hasn’t broken, not yet.", "He excels where the others faltered—patterns, tone recognition, resilience to isolation. On paper, he’s perfect.", "But perfection frightens me more than failure. If we succeed, I can feel it—something far worse is waiting for us on the other side.", "The head researcher doesn’t see it that way. He paces the observation deck like a priest before an altar, calm but relentless.", "He keeps telling us we’re close to a breakthrough, closer than ever. He never says what the breakthrough is. Only that the subject is the key.", "I overheard him in the director’s office days ago, his voice low, almost reverent.", "He mentioned their new dig sites, the ones they keeps off the books.", "They unearthed scriptures, fragments from some civilization no one has heard of.", "Writings about a new form of music—not just notation, but something older, stranger.", "The head researcher speaks of it as if it were sacred.", "He keeps quoting ancient texts too, passages on the effect of sound on the human body, the mind.", "He says music was once considered the purest form of control—more binding than chains, more cutting than blades.", "I write down the data, follow protocol, nod when spoken to. I don’t know where any of this is leading.", "I just know the subject isn’t like the others, and if we keep pushing, something will break."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2501a"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2501a",
+      "text": ["The stairwell ends abruptly,vomiting them into a vast chamber where every sound ricochets unnaturally, as if the walls are reluctant to give them silence.", "They step inside, footsteps hollow against stone.", "Seven towering statues loom in rows, their faces weathered into grotesque half-smiles, relics of a forgotten age."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2502a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2502a",
+      "text": ["Beyond the statues, a twisted garden spreads—night flowers glowing faintly in shades of violet and blue. Their petals drip with something dark and red, drops that vanish before they touch the ground, as though the chamber itself drinks them.", "The air thickens, dry but saturated with a sickly sweetness. It clings to the back of their throats, honeyed at first, then sharp—like the instant before a migraine blooms behind the eyes."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2503a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2503a",
+      "text": ["Player 2 stumbles, sliding against a statue's base, their breath shallow. “Please... we should stop. Just—just rest.” His voice trembles more from fear than exhaustion.", "The chamber narrows into a corridor that feels longer than it is, stretching with every step, whispers chasing them in languages they cannot name.", "And then, without warning, the space expands again—swallowing them in silence.", "Before them rises the vault: colossal, seamless metal, black as oil. Its surface hums faintly, a sound too low to belong to machines, too alive to be still."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2504a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2504a",
+      "text": ["Strange symbols crawl across its frame, glowing faintly, refusing to be understood.", "The air tastes of iron and nectar, dread and promise.", "Player 2 sinks to the ground, head in hands, whispering a plea.", "Player 1 stands frozen, staring at the vault, terror and awe twined together.", "The vault door is not just a barrier—it’s an invitation."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["M7"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2501b",
+      "text": ["I locked eyes with the subject through the glass, just for a second too long. He wasn’t looking at me—he was staring at his own reflection, unblinking, as if it was speaking to him.", "The longer I watched, the more uneasy I felt, until I had to look away and pretend to focus on my notes.", "We’ve been here before. The last rounds of “experiments” were failures—each one unraveling in its own grotesque way.", "Their files are sealed now, their bodies stored in room 489 of the basement. No one is ever allowed to go near it.", "We don’t talk about them, but we all remember. This subject is different though. He hasn’t broken, not yet.", "He excels where the others faltered—patterns, tone recognition, resilience to isolation. On paper, he’s perfect.", "But perfection frightens me more than failure. If we succeed, I can feel it—something far worse is waiting for us on the other side.", "The head researcher doesn’t see it that way. He paces the observation deck like a priest before an altar, calm but relentless.", "He keeps telling us we’re close to a breakthrough, closer than ever. He never says what the breakthrough is. Only that the subject is the key.", "I overheard him in the director’s office days ago, his voice low, almost reverent.", "He mentioned their new dig sites, the ones they keeps off the books.", "They unearthed scriptures, fragments from some civilization no one has heard of.", "Writings about a new form of music—not just notation, but something older, stranger.", "The head researcher speaks of it as if it were sacred.", "He keeps quoting ancient texts too, passages on the effect of sound on the human body, the mind.", "He says music was once considered the purest form of control—more binding than chains, more cutting than blades.", "I write down the data, follow protocol, nod when spoken to. I don’t know where any of this is leading.", "I just know the subject isn’t like the others, and if we keep pushing, something will break."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2601a", "2601b"],
+      "levelEnd": true,
+      "choice": ["1", "2"]
+    },
+    {
+      "storyID": "2501c",
+      "text": ["Player 1 (reading out): This reads “These Romans Are Crazy”.", "Player 2: This has to be some kind of sick joke. Are we trapped in a Classical Age nightmare?", "Player 1 (mocking): Don’t be so dramatic. Let’s skedaddle before Caeser himself jumps us.", "Player 2: Funny. I think we should go up, maybe we can get out through the bridge? I swear, this place is a fire hazard."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2601c"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2501d",
+      "text": ["Player 2: This actually makes no sense. At all.", "Player 1: Just someone’s notes. Let’s keep moving, we have to find a way out.", "How about we go up? The bridge connects us to AB4, maybe we can cry out for help!"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2601d"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2601a",
+      "text": ["The control panel hums, a hidden relay clicking. The lift shudders, then the doors slide open with a reluctant sigh.", "Cool air spills in from the hallway beyond. For a moment, silence feels like mercy."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2701c"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2601b",
+      "text": ["The lift remains firmly shut. The control panel flickers—green, then red, then dead.", "A faint electric whine seeps through the walls, a low insect hum that claws at their nerves.", "Player 2 slumps against the railing, blinking too slow, murmuring something that doesn’t make sense—half dream, half delirium.", "Player 1 pounds the “open” button until their thumb throbs, panic rising sharp in their chest.", "Five minutes pass. The air feels thinner.", "The silence between the two of them grows heavy, broken only by Player 2’s nervous laughter—small, brittle, and terrifying in the closeness of the box."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2602b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2602b",
+      "text": ["By seven minutes, Player 1 can’t take it anymore. They wedge fingers into the seam of the doors, straining until their nails scrape metal.", "The lift gives a reluctant groan, like something alive resisting, and then—a gasp of cold hallway air spills through.", "Ten more minutes go by, having prised the door open, they spill out into the corridor.", "Not relief, just a new kind of fear, jangling and raw.", "Player 2 stumbles, muttering about shapes in the shadows, their face pale and dazed.", "Player 1 keeps pulling them forward, desperate for an exit, any exit. That’s when they see it."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2701d"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2601c",
+      "text": ["Player 2 (rubbing eyes): Hypnos would be proud of me right now. I could sleep on the floor.", "Player 1: Endymion later. Bridge now. If alarms trip, that’s the evac route.", "They move. The corridor is too quiet; emergency lights pulse like a slow heartbeat.", "At the stairwell landing, a chalk scuff catches the light—three harsh strokes that resembles a Γ.", "Player 2 (uneasy): Did you see that-", "Player 1: Ignore it. We keep going.", "(Up the stairs they go, every limb feels sore as if they’re being dragged down by the floor)."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2602c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2602c",
+      "text": ["They reach the bridge door: “AUTHORIZED ACCESS ONLY – LOCKED 24/7.”", "A keypad dead, screen black.", "Player 1 tries the handle out of habit) —Click.", "(It turns. Too easily. They freeze, panic and relief tangling.)", "Player 2 (whisper): That’s… not possible.", "Player 1 (low): Or someone wants it open."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2603c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2603c",
+      "text": ["(They push. The seam widens. A wash of white roars through—clean, depthless, obliterating every shadow.", "Player 2 staggers, sways, and drops boneless to the floor.", "Player 1 throws an arm over their eyes, blinking into the glare, heart hammering.)", "Player 1 (hoarse): Stay with me. We go through together.", "(The light swallows the hall, the stairs, even the idea of turning back.)"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2801"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2601d",
+      "text": ["A draft whispers through the cracked door, carrying the faint groan of something metallic above them—pipes or chains, it’s impossible to tell. The sound makes the hair on their arms prickle.", "Player 1 (lowering voice, urgent): “Let’s keep moving. We have to find a way out before whatever is making that sound comes closer. How about we go up? The bridge connects us to AB4, maybe we can cry out for help!”"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2602d"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2602d",
+      "text": ["Player 2 (reluctantly): “Up. Right. Sure. But… doesn’t it feel like we’re being herded? Like Theseus in the labyrinth—except without Ariadne’s thread. Just blind turns.”", "Player 1: “You don’t get it. Ariadne’s thread led out. Ours just coils tighter. Every step up, every door we open—it’s like the walls are waiting for us. Like the bridge isn’t an escape, it’s the Minotaur’s mouth.”", "The dragging stops. Silence. Then, light. A sudden, searing glow spills from the bridge’s door"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2603d"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2603d",
+      "text": ["Player 1 (shielding their eyes): “Light? Finally!!”", "They stumble onto the concrete bridge.", "The glow erupts at its center, blinding, bleaching the world to white. The far end vanishes into shadow.", "The bridge holds solid underfoot, but the air thickens—as if the labyrinth hasn’t released them, only snapped the trap shut."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2801"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "M7",
+      "text": ["Vault minigame"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2701a", "2701b"],
+      "levelEnd": true,
+      "choice": ["1", "2"]
+    },
+    {
+      "storyID": "2701a",
+      "text": ["The vault looms before them, its cold steel face unmarked by time. The chamber trembles as the last mechanism of the minigame clicks into place.", "Player 2: (slumping, voice weak) I… I can’t… It’s too much… everything feels wrong…", "Player 1: (gritting teeth, dragging Player 2 to their feet) Stay with me. We’ve come too far. Just one more step."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2702a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2702a",
+      "text": ["The great wheel on the vault groans, screeching like a dying animal.", "Dust cascades in thin veils as gears hidden deep within the walls awaken.", "The stale air presses heavier, tinged with that same sickly-sweet rot, suffocating them as they wait.", "Player 2: (nearly collapsing, whispering) Please… let’s go back… it’s pulling me under…"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2703a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2703a",
+      "text": ["A thunderous clang. The vault door shudders, then slowly peels back with an agonizing hiss of stale air escaping.", "A blinding light gushes forth, cutting through the darkness like a blade.", "Player 2 shields their eyes, trembling on the verge of fainting.", "Player 1 raises an arm across his face, jaw clenched, forcing himself to endure the brilliance."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2704a"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2704a",
+      "text": ["Player 2: (crying out) It’s too bright—what is it?!", "The chamber dissolves in the glow. Statues, flowers, shadows—all swallowed whole.", "And then, impossibly, as the light settles, they see outlines forming—wooden desks, chalk-dust drifting in the air, faint walls lined with bookshelves. A classroom. In the middle of nowhere.", "Player 1: (breathless, eyes wide) …This… this makes no sense.", "The vault door slams open fully with a final boom, the sound echoing like a judgment, ushering them inside."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2801"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2701b",
+      "text": ["(The gears grind. The minigame falters. The runes flare red, not green. A deep clang echoes like a guillotine.)", "Player 2 (voice cracking) We- we failed…?", "(The floor groans beneath them. Stone tears apart with a thunderous crack. A sudden trapdoor yawns open like a predator’s mouth.)", "Player 1 NO—!", "(Both are swallowed by the black void. Their screams ricochet against the walls. The chute drags them down, slick, cold, spinning. The air tastes metallic, electric. Player 2’s vision fractures. The chute whines, almost alive.)"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2702b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2702b",
+      "text": ["Player 2 (screaming, babbling) They’re in my head! Oh God, they’re in my head! Their bodies twist, slammed side to side, the darkness strobing with fleeting visions: statues bending, flowers bleeding, vault doors blinking like eyes.", "The chute stretches impossibly long, swallowing them whole.", "The sound of their own voices comes back to them, warped and layered, mocking.", "Player 1 (shouting over the roar) “AAAAAAAAAAHHHHHHHHHH”"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2703b"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2703b",
+      "text": ["(A final violent drop, then silence. They land with a whump on something absurdly soft. A bean bag. In the middle of a classroom. Chalk dust in the air. Fluorescent lights buzzing overhead.", "The terror evaporates into sterile normalcy, yet their hearts won’t stop hammering.", "Player 1 is sprawled, blinking in disbelief. Player 2 is curled up, shivering, half-convinced their mind is still falling.)", "Player 2 (weak, dazed) …where… the hell… are we?"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2801"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2701c",
+      "text": ["But mercy doesn’t last. Player 2 clutches his knees, pale, his breath ragged.", "“Where the hell do we even go now?”", "Player 1 doesn’t answer right away. Her eyes flick toward the far end of the hall, toward the bridge. The bridge has always been sealed, its large wooden door a quiet monument to futility. No one’s ever crossed it. No one’s even touched it without laughing bitterly at the thought. Still—she points. “The bridge.”", "Player 2 (frantic laugh): “Are you kidding me? That thing’s been locked since forever. We’d be better off bashing our heads against the wall.", "Player 1 (snaps): “Then what?” “Wait here until they find us tomorrow morning? You want to spend the night here? We’ll get into so much trouble for biometrics! No. We try it.”"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2702c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2702c",
+      "text": ["The argument hangs sharp in the air. For once, Player 2 has no counter. His shoulders slump. “Fine. But when it doesn’t work, don’t say I didn’t warn you.”", "Their footsteps echo down the hall, too loud, too final.", "The bridge door looms ahead like an accusation. Player 2 mutters curses under his breath, already bracing for disappointment. But then-", "Click. The handle shifts under Player 1’s hand. The lock, that impossible lock, slides free with almost casual ease. Both players freeze."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2703c"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2703c",
+      "text": ["“No…” Player 2 whispers, his face drained of what little color he had left. “That’s not possible. That door has never opened.”", "Player 1’s throat tightens. She tries the door again, slow, hesitant. No resistance. Just… unlocked. Waiting. Something is wrong. Terribly, unspeakably wrong. Still, they push.", "The door creaks open, groaning like it hasn’t moved in decades. A draft rushes past them, dry and electric, carrying no scent at all—like nothingness itself.", "And then— Blinding light. White, merciless, swallowing every edge, every shadow. It sears their eyes.", "Player 1 throws up a hand, shielding her face.", "Player 2 stumbles, nearly collapsing, his balance torn away by the shock of it.", "For one heartbeat, it feels like stepping out of their world entirely."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2801"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2701d",
+      "text": ["The bridge. The sealed bridge that has never, ever been open. The door stands waiting, unlocked.", "They freeze. Exchange a look. Both too rattled to question it properly, but too desperate not to try. The handle turns under Player 1’s hand with a traitorous ease. The door yawns open."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2702d"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2702d",
+      "text": ["Blinding light floods in—so sudden, so violent, it feels like knives behind their eyes.", "Player 2 gasps once, staggers, then crumples soundlessly to the floor.", "Player 1 drops beside them, shielding their eyes, half-blind themselves, heart slamming like a trapped animal.", "The bridge hums with something unknown, something wrong, as the light swallows them whole."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2801"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2801",
+      "text": ["The two players look around, astounded. A brightly lit room. Inside—six people huddled around a table with papers, laptops, scribbles on whiteboards. The atmosphere is both casual and unnervingly deliberate."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2802"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2802",
+      "text": ["Player 2 suddenly snaps alert. Six strangers are in the room. Except… they don’t feel like strangers at all.", "Arko (senior) (looking up, instantly tense): …oh no.", "Sara (senior) (eyes dart to Arko, realization hitting): …yeah. It happened. Neither of them elaborate. The juniors are too busy to notice the shift in the air.", "Medhavi (junior) (rapid-fire speech, words tumbling over each other): “…and then in Phase 2 we add seven instruments not six, because seven gives … perfe… symmetry for the sub… and the reveal … tie into the-”", "Sara (cutting in, confused): Whoa, whoa, slow down, Medhavi. I caught… “seven instruments” … and then… nothing.", "Medhavi (grinning sheepishly): Oh. Right. Sorry. I just get excited."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2803"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2803",
+      "text": ["Meanwhile, in the corner-", "Shlok (junior) (leaning in, eyes wide as he explains): Okay, imagine this—romance is everywhere in the scene. Not the wholesome kind—this is obsession, temptation so strong it makes people lose their grip. Characters start chasing desire instead of logic, and that’s when everything unravels. But yeah, leave that out for now, it’s all Phase 2, man.", "Naman (junior) (skeptical): AWW HELL NAH… wait,are you serious? Like, for real? This is actually going into Phase 2?", "Shlok (mock-offended): Why would it be a joke, bruh? Obviously it’s happening. The readers are gonna lose their minds.", "Naman (suddenly hyped): Yo, that’s insane! Damn, Shlok, you’re tempting me to become a character in Phase 2 myself."],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2804"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2804",
+      "text": ["Player 2 coughs, awkwardly. All eyes turn.", "Player 1: Uh… hey? What.. exactly are you all doing here?", "Bhuvi (naively blurts out, excited): Oh! We’re making this web dev-based game. Gonna have two main characters, mini-games. Easter eggs, foreshadowing—the whole deal! I just keep writing this scene again and again though. Writer’s block, I guess.", "Player 2 (perks up): Whoa. That sounds cool. Sounds like one of those categories from Techtatva– can’t remember the name though. Anyway… what scene are you working on now?"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2805"],
+      "levelEnd": false,
+      "choice": []
+    },
+    {
+      "storyID": "2805",
+      "text": ["Bhuvi(grinning): Funny you ask—I’m basically writing the scene where our main characters stumbles in and sees the writers-", "Arko (cutting sharp, voice cold): Bhuvi. Shut. Up.", "Bhuvi (flinches, mumbling): …sorry. The tension spikes. Everyone goes silent for a beat.", "Sara steps forward gently. Sara: Listen. You should leave now. This… scene can’t be stretched out any further. If it does… there will be consequences.", "Player 1 (confused): “Scene”? Stretched out? What are you even talking about?", "Sara (careful, cryptic): Before you leave… is there any question that you want to ask us? About our story?", "Player 2 (frowning): “I have so many questions! About everything!” Okay so my question would be:"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["2901a", "2901b", "2901c"],
+      "levelEnd": true,
+      "choice": ["1", "2", "3"]
+    },
+    {
+      "storyID": "2901a",
+      "text": ["LALALALALALALLALALALALALAALALALALALLA"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["3001"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2901b",
+      "text": ["LALALALALALALLALALALALALAALALALALALLA"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["3001"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "2901c",
+      "text": ["LALALALALALALLALALALALALAALALALALALLA"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": ["3001"],
+      "levelEnd": true,
+      "choice": []
+    },
+    {
+      "storyID": "3001",
+      "text": ["[The air twists unnaturally. A creeping heaviness grips the characters, dragging them down.]", "Character 1: W—what’s happening? Why can’t I… keep my eyes open?", "Arko: Heh… finally. The scene ends here.", "Character 2: “Scene ends”? No—wait! Why are you putting us to sleep?", "Writers: Because you’ve seen too much, and yet… not nearly enough.", "Character 1: That’s not fair! Tell us what’s coming!", "Writers: For now,I think we gave you enough chances to ask questions.", "Character 2: Then at least tell us why this way—why sleep?", "Writers: Just remember this for now: where you wake up next will be far more sinister than anything you’ve faced till now.", "[The characters claw at consciousness, until they finally give in]"],
+      "backgroundImg": ".png",
+      "backgroundMusic": ".mp3",
+      "nextID": [""],
+      "levelEnd": true,
+      "choice": []
+    }
+  ]

@@ -1,0 +1,26 @@
+/* Regular */
+@font-face {
+  font-family: 'AlbertusMTStd';
+  src: url('../fonts/AlbertusMTStd.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Italic */
+@font-face {
+  font-family: 'AlbertusMTStd';
+  src: url('../fonts/AlbertusMTStdItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Light */
+@font-face {
+  font-family: 'AlbertusMTStd';
+  src: url('../fonts/AlbertusMTStdLight.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+* {
+  font-family: 'AlbertusMTStd', sans-serif;
+}
